@@ -1,6 +1,12 @@
-## 📝 Articles & Publications
+# My Publications
 
-I write about technology, learning, digital awareness and other topics of interest.
+## 📚 Books
+
+[The Quiet Leader in Tech: How Calm Professionals Build Influence, Authority and Staying Power in Tech](https://www.amazon.in/Quiet-Leader-Tech-Professionals-Influence-ebook/dp/B0GS98R94Y)
+
+## 📝 Articles
+
+I write about technology, quality engineering, digital awareness and industry trends.
 
 ### Technology & Learning
 - [The Next Decade Won’t Belong to the Best Coders—It’ll Belong to the Fastest Learners](https://learnwithkarthi.medium.com/the-next-decade-wont-belong-to-the-best-coders-it-ll-belong-to-the-fastest-learners-2a4557107d8f)
